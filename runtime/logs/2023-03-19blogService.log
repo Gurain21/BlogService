@@ -1,0 +1,20 @@
+[INFO]2023/03/19 12:13:27 main.go:34: Start a web service ,Listen Address: http://localhost:8080
+
+[INFO]2023/03/19 12:30:09 main.go:35: Start a very good web service and listen address: http://localhost:8080
+[INFO]2023/03/19 12:32:12 main.go:35: Start a very good web service and listen address: http://localhost:8080
+[INFO]2023/03/19 12:33:29 main.go:35: Start a very good web service and listen address: http://localhost:8080
+[INFO]2023/03/19 12:35:27 main.go:35: Start a very good web service and listen address: http://localhost:8080
+[INFO]2023/03/19 12:38:06 main.go:35: Start a very good web service and listen address: http://localhost:8080
+[INFO]2023/03/19 12:39:16 article.go:34: The argument id min value is 1 
+[INFO]2023/03/19 12:39:42 article.go:34: The argument id min value is 1 
+[INFO]2023/03/19 13:41:29 proc.go:250: [Start a very good web service and listen address: http://localhost: 8080]
+[ERROR]2023/03/19 13:41:29 proc.go:250: [Test logging is running success ! heelowdsf 1 2 3 5]
+[INFO]2023/03/19 14:47:47 proc.go:250: [Start a very good web service and listen address: http://localhost: 8080]
+[ERROR]2023/03/19 14:47:47 proc.go:250: [Test logging is running success ! heelowdsf 1 2 3 5]
+[INFO]2023/03/19 17:48:46 proc.go:250: [Start a very good web service and listen address: http://localhost: 8080]
+[INFO]2023/03/19 17:49:25 proc.go:250: [Start a very good web service and listen address: http://localhost: 8080]
+[INFO]2023/03/19 17:51:34 proc.go:250: [Start a very good web service and listen address: http://localhost: 8080]
+[INFO]2023/03/19 17:52:08 proc.go:250: [Start a very good web service and listen address: http://localhost: 8080]
+[INFO]2023/03/19 17:53:04 proc.go:250: [Start a very good web service and listen address: http://localhost: 8080]
+[INFO]2023/03/19 18:29:08 proc.go:250: [Start a very good web service and listen address: http://localhost: 8080]
+[INFO]2023/03/19 18:30:50 proc.go:250: [Start a very good web service and listen address: http://localhost: 9999]
